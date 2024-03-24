@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a graduate of Electronics and Communication Engineering. During my university life, I participated in various engineering clubs and received many seminars and professional training. I had opportunities to do internships in different fields related to my department. In the last years of my university life, I decided to improve myself in the software field due to my interest in software. After graduation, I tried to improve myself in the Web Programming. I improved myself by receiving many trainings related to this field. Currently, I continue to improve myself in this field by taking .Net Angular Fullstack training in the Istanbul Kodluyor project.
 
 * 🌍  I'm based in Ankara/Türkiye
-* 🚀  I'm currently working on [Blog Web App](http://github.com/yusuffemreavsar/Blog-Web-App)
+* 🚀  I'm currently working on Library Management System
 * 🧠  I'm learning .Net Core
 
 ### Skills
