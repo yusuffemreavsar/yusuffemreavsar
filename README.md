@@ -1,7 +1,7 @@
 Hi I'm Yusuf Emre
 ==================================================================================================================================
 
-.NET Developer & Electronic Engineer.
+Software Developer & Electronic Engineer.
 -------------------------------------
 
 I am an aspiring software developer passionate about web development, with a
