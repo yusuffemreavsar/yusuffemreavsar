@@ -1,14 +1,6 @@
 Hi I'm Yusuf Emre
 ==================================================================================================================================
-
-Software Developer & Electronic Engineer.
--------------------------------------
-
-I am an aspiring software developer passionate about web development, with a
-focus on backend technologies like .NET. I am also learning and working on
-frontend technologies such as Angular, aiming to develop full-stack projects. I am
-committed to improving my skills and building a strong foundation to advance my
-career in the tech industry.
+I'm a developer who loves building solutions with .NET. I enjoy solving problems, and yes, I’ve probably spent more time debugging than actually writing code... but hey, at least it’s never boring! 😄
 
 
 
